@@ -2706,4 +2706,10 @@ Please specify one of them using the --source option to proceed.</value>
     <value>WinGetPackage configuration unit package cannot be validated. Package Id: {0}</value>
     <comment>{Locked="WinGetPackage,{0}"}</comment>
   </data>
+  <data name="RepairCommandLongDescription" xml:space="preserve">
+    <value>(TODO: long description) Repairs the selected package</value>
+  </data>
+  <data name="RepairCommandShortDescription" xml:space="preserve">
+    <value>(TODO: short description) Repairs the selected package</value>
+  </data>
 </root>
